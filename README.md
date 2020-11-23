@@ -7,5 +7,5 @@ Components:
 - Analysis in Jupyter Notebook ('Associated Skills.ipynb')
 - Web scraper for data scraping ('SeekScraper.py'/'SeekScraper_v1.py')
 - Datasets obtained from web scraper ('Job Requirements.csv'/'Job Requirements v1.csv' and 'Job Details.csv'/'Job Details v1.csv')
-- Early-version scraper and datasets used for first part of analysis (v1)
-- Later-version scraper and datasets used for final part of analysis (unmarked)
+- Early-version scraper and datasets used for first part of analysis ('SeekScraper_v1.py'/'Job Requirements v1.csv'/'Job Details v1.csv')
+- Later-version scraper and datasets used for final part of analysis ('SeekScraper.py'/'Job Requirements.csv'/'Job Details.csv')
